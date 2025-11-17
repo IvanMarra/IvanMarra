@@ -13,7 +13,7 @@
 
 ## 👋 Olá! Eu sou o Ivan Marra
 
-Arquiteto de soluções, tech lead, estrategista digital e profissional com forte atuação em ** segurança cibernética **.  
+Arquiteto de soluções, tech lead, estrategista digital e profissional com forte atuação em * segurança cibernética *.  
 Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automações inteligentes e ecossistemas digitais completos para:
 
 - setor público  
