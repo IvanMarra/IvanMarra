@@ -81,7 +81,7 @@ Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automaçõe
 
 <p align="center">
   <!-- Essa imagem é gerada pelo workflow snake.yml na branch "output" -->
-  <img src="https://github.com/ivanmarra/ivanmarra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- <img src="https://github.com/ivanmarra/ivanmarra/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
 </p>
 
 ---
@@ -195,17 +195,17 @@ Atuação com:
 
 ## ✒️ Assinatura
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/signature.svg" alt="Assinatura animada - Ivan Marra" width="400" />
-</p>
+</p> -->
 
 ---
 
 ## 📫 Como me encontrar
 
 - 💼 LinkedIn: [linkedin.com/in/ivanmarra](https://www.linkedin.com/in/ivanmarra)  
-- 🌐 Site / Portfólio: em construção – em breve em **deviem.com.br**  
-- 📧 E-mail: contato@deviem.com.br *(ajuste para o que você realmente usa)*  
+- 🌐 Site / DEVIEM Portfólio: em **deviem.com.br**  
+- 📧 E-mail: ivanmarra2009@gmail.com *(ajuste para o que você realmente usa)*  
 
 ---
 
