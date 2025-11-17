@@ -1,111 +1,215 @@
-<!--
-README do perfil / projeto
-Feito com carinho e café ☕ por Ivan Marra
--->
-
-<h1 align="center">👋 Olá, eu sou o Ivan Marra</h1>
-
+<!-- Banner principal -->
 <p align="center">
-  <b>Arquiteto de soluções, tech lead e estrategista digital</b><br/>
-  Construindo produtos digitais, plataformas SaaS e ecossistemas completos para negócios reais.
+  <!-- Se quiser usar uma imagem gerada por IA/Canva depois, troque o caminho abaixo -->
+  <img src="./assets/banner.svg" alt="Banner Ivan Marra - Arquiteto de Soluções e Cybersecurity" />
+</p>
+
+<!-- Texto digitando animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&center=true&vCenter=true&width=700&lines=Ivan+Marra;Arquiteto+de+Soluções+%7C+Tech+Lead;Segurança+Cibernética+%7C+SaaS+%7C+Ecossistemas+Digitais;Construindo+soluções+reais+para+negócios+reais" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 👋 Olá! Eu sou o Ivan Marra
 
-- 🧠 Atuo como **arquiteto de soluções** e **tech lead**, liderando projetos de alto impacto no setor público e privado.  
-- 🛡️ Tenho forte atuação em **segurança cibernética**, já participei de defesa a incidentes em ambiente de governo federal.  
-- 🧩 Desenvolvo **plataformas SaaS**, sistemas corporativos, integrações avançadas, automações e dashboards executivos.  
-- 🐾 Também sou o cérebro por trás de soluções para o nicho **veterinário**, indústria, varejo, finanças e alimentação.  
-- 🌍 Sempre buscando unir **estratégia de negócios + tecnologia + experiência do usuário**.
+Arquiteto de soluções, tech lead, estrategista digital e profissional com forte atuação em **segurança cibernética**.  
+Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automações inteligentes e ecossistemas digitais completos para:
+
+- setor público  
+- setor privado  
+- indústria  
+- varejo  
+- nichos especializados como **veterinário** e **alimentação**
 
 ---
 
-## 🛠️ Tech Stack & Ferramentas
+## 🏆 Badges & Status
 
-**Linguagens & Backend**
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ivanmarra)
+![GitHub followers](https://img.shields.io/github/followers/ivanmarra?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ivanmarra?style=social)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<!-- Troque o ID do Wakatime pelo seu ID real depois -->
+![Wakatime](https://wakatime.com/badge/user/00000000-0000-0000-0000-000000000000.svg)
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Tailwind_CSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🚀 Tech Universe
 
-**Banco de Dados & Cloud**
+### 🖥️ Frontend
+- React • Vite • TypeScript • JavaScript  
+- Tailwind CSS • Bootstrap • ShadCN UI  
+- Integração com APIs REST, dashboards e UIs focadas em negócios
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🧮 Backend
+- PHP (framework próprio, MVC)  
+- Node.js (serviços e APIs)  
+- Python (scripts, automações, integrações)  
+- Integrações com serviços externos, webhooks e automações
 
-**Ferramentas & Workflow**
+### 🗄️ Banco de Dados
+- MySQL / MariaDB  
+- PostgreSQL  
+- Supabase (self-hosted e cloud)  
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor%20IDE-000000?style=for-the-badge)
+### ☁️ Infra & DevOps
+- Docker • Docker Compose  
+- Nginx • Hostinger VPS  
+- Vercel  
+- Integração com CI/CD (GitHub Actions)
+
+### 🧰 Ferramentas de Trabalho
+- VS Code • Cursor  
+- Figma • Canva / Lovable  
+- Postman • Insomnia  
+- Git / GitHub (branches, releases, ambientes)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<!-- Substitua 'SEU_USUARIO' pelo seu usuário do GitHub: 'ivanmarra' -->
-<img src="https://github-readme-stats.vercel.app/api?username=ivanmarra&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarra&layout=compact&theme=tokyonight" alt="Top Langs" height="165" />
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivanmarra&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmarra&theme=tokyonight" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmarra&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-## 🧩 Alguns projetos e ecossistemas que construo
+## 🐍 Animação dos Commits
 
-- 🏢 **FériasPró** – Plataforma SaaS para gestão de férias corporativas.  
-- 🧀 **QueijoMinas / SGCI** – Soluções corporativas para órgãos governamentais.  
-- 🐶 **PopularVet & PetVetFarma** – Ecossistema digital para clínica veterinária, e-commerce e produtos dermato.  
-- 🧼 **EcoBio** – E-commerce focado em soluções de limpeza industrial e automotiva.  
-- 📊 **Business Plan Goals (MGI)** – Módulos para planejamento estratégico, metas e dashboards para diretoria.
-
-> Em breve vou abrir mais repositórios públicos com partes desses ecossistemas e componentes reutilizáveis.
+<p align="center">
+  <!-- Essa imagem é gerada pelo workflow snake.yml na branch "output" -->
+  <img src="https://github.com/ivanmarra/ivanmarra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-## 🧠 Interesses atuais
+## 🧩 Projetos & Ecossistemas
 
-- 🔐 Segurança da informação, hardening e monitoramento de aplicações.  
-- 🤖 Integração de IA em fluxos reais (automação, copilots, geração de código, análise de documentos).  
-- 🧱 Arquiteturas escaláveis para SaaS multi-tenant.  
-- 📈 Métricas, dashboards executivos e tomada de decisão baseada em dados.
+### 🏢 FériasPró — Plataforma SaaS de gestão de férias
+Plataforma especializada em férias corporativas, trabalhando com:
+
+- períodos aquisitivos e concessivos  
+- divisão em múltiplos períodos  
+- validações legais e regras de negócios  
+- visão para RH, gestor e colaborador  
+
+> Foco em reduzir erro humano, aumentar transparência e organizar a operação de férias.
 
 ---
 
-## 📫 Onde me encontrar
+### 🧀 QueijoMinas / SGCI — Soluções corporativas governamentais
+Soluções desenvolvidas para órgãos de governo, com foco em:
+
+- gestão e controle interno  
+- monitoramento de indicadores  
+- planejamento estratégico e metas  
+- visão executiva para diretoria e conselho  
+
+---
+
+### 🐶 PopularVet & PetVetFarma — Ecossistema veterinário
+Ecossistema digital completo para clínica e e-commerce veterinário:
+
+- site institucional  
+- loja virtual PetVetFarma  
+- conteúdos e campanhas Black/sazonais  
+- soluções dermato-veterinárias e produtos próprios  
+
+---
+
+### 🧼 EcoBio — Plataforma para produtos industriais
+E-commerce focado em:
+
+- equipamentos de limpeza industrial e automotiva  
+- produtos de alto valor agregado  
+- escalabilidade para múltiplos canais de venda  
+
+---
+
+### 🌐 Deviem.com.br — Meu hub pessoal
+Base para centralizar:
+
+- projetos  
+- experimentos  
+- conteúdos  
+- automações e integrações  
+
+---
+
+## 🧠 Minha visão como Arquiteto de Soluções
+
+> “Tecnologia boa é tecnologia que resolve problema de verdade, com segurança, clareza e escala.”
+
+- foco em **segurança** desde o desenho da arquitetura  
+- foco em **simplicidade com robustez**  
+- foco em **experiência do usuário**, sem perder a profundidade técnica  
+- foco em **modularidade**, para crescer sem reescrever tudo  
+
+---
+
+## 🔐 Segurança Cibernética
+
+Atuação com:
+
+- resposta a incidentes em ambiente de governo federal  
+- análise de ataques reais (phishing avançado, malware, brute force, SQLi etc.)  
+- fortalecimento de aplicações (hardening, monitoramento, log, segregação)  
+- recomendações baseadas em boas práticas (NIST, OWASP)  
+
+---
+
+## 🧭 Linha do Tempo (resumida)
+
+- 🧩 Início como dev full stack, criando sistemas corporativos sob demanda  
+- 🏛️ Entrada em projetos governamentais, com foco em gestão e controle  
+- 🛡️ Atuação em segurança cibernética em contexto federal  
+- 🐾 Expansão para o nicho veterinário com PopularVet & PetVetFarma  
+- 🧼 Criação de soluções para o setor industrial com EcoBio  
+- 🚀 Evolução para ecossistemas SaaS e arquiteturas multi-tenant (FériasPró, Deviem)
+
+---
+
+## 🗺️ Roadmap Público
+
+- 🔄 Consolidar FériasPró como SaaS multi-tenant  
+- 📦 Modularizar componentes do SGCI / Business Plan Goals  
+- 🤖 Integrar IA em fluxos reais (análise de documentos, copilots internos, automações)  
+- 🛡️ Expandir soluções práticas de cibersegurança para PMEs e órgãos públicos  
+- 📊 Criar dashboards executivos plug-and-play para tomada de decisão  
+
+---
+
+## 🎓 Mentor & Educador (em construção)
+
+- Apoio devs na transição para:
+  - pensar em arquitetura, não apenas em código  
+  - entender negócios, não apenas tecnologia  
+  - usar IA como parceira de trabalho, não como ameaça  
+
+*(Em breve: conteúdos, talks e materiais públicos.)*
+
+---
+
+## ✒️ Assinatura
+
+<p align="center">
+  <img src="./assets/signature.svg" alt="Assinatura animada - Ivan Marra" width="400" />
+</p>
+
+---
+
+## 📫 Como me encontrar
 
 - 💼 LinkedIn: [linkedin.com/in/ivanmarra](https://www.linkedin.com/in/ivanmarra)  
-- 🌐 Portfólio / Site: *(adicione aqui quando estiver pronto, ex: https://deviem.com.br)*  
-- ✉️ Contato profissional: *(adicione seu e-mail principal ou genérico, ex: contato@deviem.com.br)*  
+- 🌐 Site / Portfólio: em construção – em breve em **deviem.com.br**  
+- 📧 E-mail: contato@deviem.com.br *(ajuste para o que você realmente usa)*  
 
 ---
 
-## ☕ Bora construir algo grande?
+Obrigado por visitar!  
+Se quiser trocar ideia sobre arquitetura, SaaS, segurança ou transformar um negócio em ecossistema digital:
 
-Se você chegou até aqui, provavelmente também acredita que **tecnologia boa é aquela que resolve problema real**.
-
-Se quiser trocar ideia sobre:
-- arquitetura de soluções  
-- segurança cibernética  
-- SaaS  
-- ou transformar um negócio físico em um ecossistema digital  
-
-é só me chamar. 😄
-
----
+**➡️ Me chama, vamos construir algo grande.**
