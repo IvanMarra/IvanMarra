@@ -13,7 +13,7 @@
 
 ## 👋 Olá! Eu sou o Ivan Marra
 
-Arquiteto de soluções, tech lead, estrategista digital e profissional com forte atuação em **segurança cibernética**.  
+Arquiteto de soluções, tech lead, estrategista digital e profissional com forte atuação em ** segurança cibernética **.  
 Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automações inteligentes e ecossistemas digitais completos para:
 
 - setor público  
@@ -81,7 +81,7 @@ Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automaçõe
 
 <p align="center">
   <!-- Essa imagem é gerada pelo workflow snake.yml na branch "output" -->
-  <img src="https://github.com/ivanmarra/ivanmarra/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ivanmarra/ivanmarra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
