@@ -1,7 +1,7 @@
 <!-- Banner principal -->
 <p align="center">
   <!-- Se quiser usar uma imagem gerada por IA/Canva depois, troque o caminho abaixo -->
-  <img src="./assets/banner.svg" alt="Banner Ivan Marra - Arquiteto de Soluções e Cybersecurity" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH7nbDV50tLcA/profile-displaybackgroundimage-shrink_350_1400/B4DZn4Ox5lHsAY-/0/1760806249272?e=1764806400&v=beta&t=wRwS1UgAGpAkDQEdKW1Yq5NSiOHma4FO5Dtf8KHqyi4" alt="Banner Ivan Marra - Arquiteto de Soluções e Cybersecurity" />
 </p>
 
 <!-- Texto digitando animado -->
