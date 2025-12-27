@@ -20,7 +20,7 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ivanmarra
+          github_user_name: IvanMarra
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to output branch
