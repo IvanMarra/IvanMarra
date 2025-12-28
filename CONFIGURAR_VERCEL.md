@@ -58,3 +58,4 @@ Se aparecer a imagem, está funcionando! ✅
 - Certifique-se de substituir TODAS as ocorrências de `github-readme-stats.vercel.app` pela sua URL
 - Verifique se não há cache (Ctrl+F5)
 
+   

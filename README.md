@@ -353,6 +353,6 @@ while (alive) {
 
 **"Construindo soluções reais para negócios reais"** 💼
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%E2%98%9+por+Ivan+Marra)](https://github.com/IvanMarra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%E2%98%95+por+Ivan+Marra)](https://github.com/IvanMarra)
 
 </div>
