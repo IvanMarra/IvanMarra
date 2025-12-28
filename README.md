@@ -5,7 +5,7 @@
 
 <!-- Texto digitando animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&center=true&vCenter=true&width=700&lines=Ivan+Marra;Arquiteto+de+Soluções+%7C+Tech+Lead;Segurança+Cibernética+%7C+SaaS+%7C+Ecossistemas+Digitais;Construindo+soluções+reais+para+negócios+reais" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&center=true&vCenter=true&width=700&lines=Ivan+Marra;Arquiteto+de+Soluções+%7C+Tech+Lead+Segurança+Cibernética+%7C+SaaS+%7C+Ecossistemas+Digitais;Construindo+soluções+reais+para+negócios+reais" />
 </p>
 
 ---
@@ -102,15 +102,43 @@ Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automaçõe
 
 ## 📊 Estatísticas do GitHub
 
+<!-- 
+  ⚠️ IMPORTANTE: A URL do Vercel está incorreta!
+  A URL correta deve ser algo como: github-readme-stats-xyz123.vercel.app
+  NÃO use: vercel.com/ivans-projects-a7a8a87f/github-readme-stats
+  
+  Para encontrar sua URL correta:
+  1. Acesse: https://vercel.com/dashboard
+  2. Clique no projeto "github-readme-stats"
+  3. Vá em "Settings" > "Domains"
+  4. Copie a URL (exemplo: github-readme-stats-abc123.vercel.app)
+  5. Substitua SUA_INSTANCIA_VERCEL abaixo pela URL correta
+-->
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanMarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanMarra&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <a href="https://github.com/IvanMarra">
+    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api?username=IvanMarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/IvanMarra">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanMarra&theme=tokyonight" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMarra&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanMarra&theme=tokyonight" alt="Wakatime Stats" />
+  <a href="https://github.com/IvanMarra">
+    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api/top-langs/?username=IvanMarra&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
+  </a>
+  <!-- Wakatime - Descomente e configure seu username do Wakatime se tiver conta -->
+  <!-- <a href="https://wakatime.com/@IvanMarra">
+    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api/wakatime?username=IvanMarra&theme=tokyonight" alt="Wakatime Stats" />
+  </a> -->
+  <!-- Estatísticas de contribuição -->
+  <a href="https://github.com/IvanMarra">
+    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api?username=IvanMarra&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="GitHub Activity" />
+  </a>
 </p>
+
+> 💡 **Nota:** Configure o token `PAT_1` nas variáveis de ambiente do Vercel (Settings > Environment Variables). O token é necessário para acessar repositórios privados e evitar limitação de taxa.
 
 ---
 
@@ -125,8 +153,10 @@ Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automaçõe
 ## 🐍 Animação dos Commits
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IvanMarra/IvanMarra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/IvanMarra/IvanMarra/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+> 💡 **Nota:** A animação é gerada automaticamente pelo GitHub Actions. Se não aparecer, execute o workflow manualmente em **Actions** > **Generate Snake** > **Run workflow**.
 
 ---
 
@@ -336,6 +366,6 @@ while (alive) {
 
 **"Construindo soluções reais para negócios reais"** 💼
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%E2%9D%A4%EF%B8%8F+por+Ivan+Marra)](https://github.com/IvanMarra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvido+com+%E2%98%9+por+Ivan+Marra)](https://github.com/IvanMarra)
 
 </div>
