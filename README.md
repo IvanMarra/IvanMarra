@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH7nbDV50tLcA/profile-displaybackgroundimage-shrink_350_1400/B4DZn4Ox5lHsAY-/0/1760806249272?e=1764806400&v=beta&t=wRwS1UgAGpAkDQEdKW1Yq5NSiOHma4FO5Dtf8KHqyi4" alt="Banner Ivan Marra - Arquiteto de Soluções e Cybersecurity" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH7nbDV50tLcA/profile-displaybackgroundimage-shrink_350_1400/B4DZn4Ox5lHsAY-/0/1760806249272?e=1768435200&v=beta&t=yk2TiP2issZoWr8FlZPvmkWfQQx7HZ9yKg_XsEGvWDs" alt="Banner Ivan Marra - Arquiteto de Soluções e Cybersecurity" />
 </p>
 
 <!-- Texto digitando animado -->
