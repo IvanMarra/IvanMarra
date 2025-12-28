@@ -102,22 +102,9 @@ Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automaçõe
 
 ## 📊 Estatísticas do GitHub
 
-<!-- 
-  ⚠️ IMPORTANTE: A URL do Vercel está incorreta!
-  A URL correta deve ser algo como: github-readme-stats-xyz123.vercel.app
-  NÃO use: vercel.com/ivans-projects-a7a8a87f/github-readme-stats
-  
-  Para encontrar sua URL correta:
-  1. Acesse: https://vercel.com/dashboard
-  2. Clique no projeto "github-readme-stats"
-  3. Vá em "Settings" > "Domains"
-  4. Copie a URL (exemplo: github-readme-stats-abc123.vercel.app)
-  5. Substitua SUA_INSTANCIA_VERCEL abaixo pela URL correta
--->
-
 <p align="center">
   <a href="https://github.com/IvanMarra">
-    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api?username=IvanMarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-cyan-five-75.vercel.app/api?username=IvanMarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/IvanMarra">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IvanMarra&theme=tokyonight" alt="GitHub Streak" />
@@ -126,15 +113,15 @@ Desenho e implemento **plataformas SaaS**, arquiteturas escaláveis, automaçõe
 
 <p align="center">
   <a href="https://github.com/IvanMarra">
-    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api/top-langs/?username=IvanMarra&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
+    <img height="180em" src="https://github-readme-stats-cyan-five-75.vercel.app/api/top-langs/?username=IvanMarra&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
   </a>
   <!-- Wakatime - Descomente e configure seu username do Wakatime se tiver conta -->
   <!-- <a href="https://wakatime.com/@IvanMarra">
-    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api/wakatime?username=IvanMarra&theme=tokyonight" alt="Wakatime Stats" />
+    <img height="180em" src="https://github-readme-stats-cyan-five-75.vercel.app/api/wakatime?username=IvanMarra&theme=tokyonight" alt="Wakatime Stats" />
   </a> -->
   <!-- Estatísticas de contribuição -->
   <a href="https://github.com/IvanMarra">
-    <img height="180em" src="https://SUA_INSTANCIA_VERCEL/api?username=IvanMarra&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="GitHub Activity" />
+    <img height="180em" src="https://github-readme-stats-cyan-five-75.vercel.app/api?username=IvanMarra&show_icons=true&theme=tokyonight&hide=issues&hide_title=true" alt="GitHub Activity" />
   </a>
 </p>
 
