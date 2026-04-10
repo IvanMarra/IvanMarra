@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://canva.link/2rqaixb7bchzege" alt="Banner Ivan Marra - Arquiteto de Soluções e Cybersecurity" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH7nbDV50tLcA/profile-displaybackgroundimage-shrink_200_800/B4DZn4Ox5lHsAU-/0/1760806249272?e=1777507200&v=beta&t=Lu9D5C4cFA6y8SPEg-8To0F8M8_MNzovMBulJEWThx4" alt="Banner Ivan Marra - Arquiteto de Soluções e Cybersecurity" />
 </p>
 
 <!-- Texto digitando animado -->
